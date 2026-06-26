@@ -20,7 +20,7 @@
 ## 项目结构
 
 ```text
-rust-note-search/
+Rust_Final_Project-main/
 ├── Cargo.toml
 ├── Cargo.lock
 ├── README.md
@@ -82,7 +82,7 @@ rust-note-search/
 进入项目目录：
 
 ```powershell
-cd rust-note-search
+cd Rust_Final_Project-main
 ```
 
 如果已经位于项目根目录，即包含 `Cargo.toml` 的目录，可以跳过这一步。
